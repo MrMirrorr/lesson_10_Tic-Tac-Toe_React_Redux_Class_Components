@@ -1,0 +1,16 @@
+.startBtn {
+	width: 200px;
+	height: 35px;
+	margin-top: 25px;
+	cursor: pointer;
+	color: white;
+	background-color: #222222;
+	border: 1px solid white;
+	transition: all 0.2s ease-in-out;
+	user-select: none;
+}
+
+.startBtn:hover {
+	color: #222222;
+	background-color: white;
+}
