@@ -1,1 +1,1 @@
-# lesson_8_Tic-Tac-Toe with Class Components with react-redux
+# Tic-Tac-Toe game with class components with react-redux
